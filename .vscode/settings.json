@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c7e8e45e-1f3c-4046-b8a4-a8b75849cbf4/resourceGroups/201602057_rg_Windows_centralus/providers/Microsoft.Web/sites/Today-Dinner",
+    "appService.deploySubpath": "."
+}
